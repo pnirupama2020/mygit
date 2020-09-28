@@ -1,0 +1,4 @@
+crud\StudentRepository.class
+ApplicationContextProvider.class
+domain\MyJavaApplication.class
+domain\Student.class

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Nirupama.Patra
+Build-Jdk: 11.0.2
+Implementation-Title: MyJava Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: MyJava
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
