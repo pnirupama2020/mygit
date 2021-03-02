@@ -1,0 +1,6 @@
+npatra\testjsf\crud\CustomerRepository.class
+npatra\testjsf\domain\Customer.class
+npatra\testjsf\beanconfig\ApplicationContextProvider.class
+npatra\testjsf\crud\test.class
+npatra\testjsf\service\CustomerService.class
+npatra\testjsf\CustomerApplication.class
