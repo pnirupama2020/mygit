@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Nirupama.Patra\primefaces\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1230233762.index
+3435648363.index
+4278103794.index
+1682376661.index
+2553691726.index
+2524247980.index
+3199340393.index

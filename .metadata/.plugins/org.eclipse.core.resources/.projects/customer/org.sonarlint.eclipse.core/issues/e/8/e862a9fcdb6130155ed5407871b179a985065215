@@ -1,0 +1,19 @@
+
+s
+java:S1128";Remove this unused import 'npatra.testjsf.domain.Customer'.(™šÎ¶ûÿÿÿÿ8ÁŸ¢ô.HåkRMINORZ
+CODE_SMELL
+“
+java:S1128"[Remove this unused import 'org.springframework.boot.autoconfigure.EnableAutoConfiguration'.(æèşŞøÿÿÿÿ8‰¯Êô.HäkRMINORZ
+CODE_SMELL
+z
+java:S1128"GRemove this unused import 'org.springframework.boot.CommandLineRunner'.(È—ÿÅ8®Œ¢ô.HçkRMINORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'javax.annotation.PostConstruct'.(›ÅÁ8Ó¾—¢ô.HãkRMINORZ
+CODE_SMELL
+–
+java:S1128"cRemove this unused import 'org.springframework.transaction.annotation.EnableTransactionManagement'.(‘Ó¼8ˆæ¤óô.HİnRMINORZ
+CODE_SMELL
+™
+java:S1128"aRemove this unused import 'org.springframework.data.jpa.repository.config.EnableJpaRepositories'.(²œ˜üÿÿÿÿ8ˆæ¤óô.HŞnRMINORZ
+CODE_SMELL

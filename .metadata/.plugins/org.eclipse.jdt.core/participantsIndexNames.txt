@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Nirupama.Patra\primefaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1545562418.index
+\MyJava\src\main\resources

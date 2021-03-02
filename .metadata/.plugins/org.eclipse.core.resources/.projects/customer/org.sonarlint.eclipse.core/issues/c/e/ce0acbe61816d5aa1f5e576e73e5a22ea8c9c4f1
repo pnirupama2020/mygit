@@ -1,0 +1,11 @@
+
+j
+java:S2696!"6Make the enclosing method "static" or remove this set.(€¾Ê¸ýÿÿÿÿHà>RCRITICALZ
+CODE_SMELL
+‰
+java:S1128
+"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäþÿÿÿÿ8©‹Æªò.Há>RMINORZ
+CODE_SMELL
+m
+java:S3457$"AFormat specifiers should be used instead of string concatenation.(®ÚëîHâ>RMAJORZ
+CODE_SMELL

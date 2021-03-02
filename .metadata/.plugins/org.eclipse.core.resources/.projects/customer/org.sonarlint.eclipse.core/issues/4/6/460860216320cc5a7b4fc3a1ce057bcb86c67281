@@ -1,0 +1,22 @@
+
+l
+java:S1128"9Remove this unused import 'javax.faces.bean.ManagedBean'.(ü·ƒ÷8…Û–õó.HÀqRMINORZ
+CODE_SMELL
+k
+java:S1128"8Remove this unused import 'javax.faces.bean.ViewScoped'.(ô—É¦8ªïáÈô.HÂqRMINORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'javax.faces.bean.RequestScoped'.(Œİ“•8Ò„¢ÿó.HÅqRMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8¶ÁŸšô.HÃqRMINORZ
+CODE_SMELL
+~
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ıÍıüÿÿÿÿ8½ÔÇ¨ô.HÆqRMINORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'javax.faces.bean.SessionScoped'.(«á­8ªïáÈô.HÁqRMINORZ
+CODE_SMELL
+
+java:S1128"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ8…Û–õó.HÄqRMINORZ
+CODE_SMELL

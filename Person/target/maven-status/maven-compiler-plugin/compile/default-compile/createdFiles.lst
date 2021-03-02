@@ -1,0 +1,6 @@
+domain\PersonMangedBean.class
+main\PersonApplication.class
+crud\PersonReopsitory.class
+domain\Person.class
+service\personService.class
+beanconfig\ApplicationContextProvider.class

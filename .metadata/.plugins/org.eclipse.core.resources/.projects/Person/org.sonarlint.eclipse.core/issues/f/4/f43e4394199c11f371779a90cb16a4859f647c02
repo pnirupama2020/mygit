@@ -1,0 +1,12 @@
+
+^
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿHRMINORZ
+CODE_SMELL
+Š
+java:S1210@"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿH‘RMINORZ
+CODE_SMELL
+}	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¾­ûÿÿÿÿH’RMINORZ
+CODE_SMELL
+b
+java:S1135A"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH“RINFOZ
+CODE_SMELL

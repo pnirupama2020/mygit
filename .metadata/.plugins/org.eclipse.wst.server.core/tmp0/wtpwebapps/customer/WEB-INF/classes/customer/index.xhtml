@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core"
+    xmlns:ui="http://java.sun.com/jsf/facelets"
+    xmlns:p="http://primefaces.org/ui">
+
+
+<!--  p:dataTable value="#{viewEmployeesManagedBean.employees}" var="employee">
+	<p:column>
+		<f:facet name="header">
+			<h:outputText value="Employee ID"></h:outputText>
+		</f:facet>
+		<h:outputText value="#{employee.employeeId}"></h:outputText>
+		
+	</p:column>
+	<p:column>
+		<f:facet name="header">
+			<h:outputText value="Employee Name"></h:outputText>
+		</f:facet>
+		<h:outputText value="#{employee.employeeName}"></h:outputText>
+	</p:column>
+</p:dataTable>-->
+<!--  <h:body>
+<h:form>   
+    <h3><h:outputLabel value="">Name</h:outputLabel></h3> <p:inputText type="text"  binding ="#{input1}" />
+   <h3>Age</h3> <p:inputText type="text" binding ="#{input2}"/>
+   <br  /> 
+   <br  /> 
+   <p:commandButton value="Save"><h:outputText name="#{input1}"></h:outputText></p:commandButton>
+ 
+    </h:form> 
+    </h:body>-->
+    <h:body>
+       <h:form>
+          Name: <h:inputText id="personName" value= "#{customer.firstName}"></h:inputText>
+          <br/>
+          Age:  <h:inputText id="personAge" value="#{customer.lastName}"></h:inputText>
+          <br/>
+      
+         <h:commandButton action ="#{service.saveCus(customer)}"  value="Save" />
+        <!-- <h:outputLabel value="#{person.name}" /> --> 
+         
+       </h:form>
+    
+    </h:body>
+</html>

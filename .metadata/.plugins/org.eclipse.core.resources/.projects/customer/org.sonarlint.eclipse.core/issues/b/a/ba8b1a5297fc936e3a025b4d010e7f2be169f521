@@ -1,0 +1,35 @@
+
+„
+java:S1128"QRemove this unused import 'npatra.testjsf.beanconfig.ApplicationContextProvider'.(Á¥ë¬8ãú£›ô.HûrRMINORZ
+CODE_SMELL
+Œ
+java:S1128
+"YRemove this unused import 'org.springframework.boot.autoconfigure.SpringBootApplication'.(Ë”ÖÏ8Í ÌËô.HürRMINORZ
+CODE_SMELL
+|
+java:S1128"IRemove this unused import 'npatra.testjsf.controller.CustomerController'.(À¦ôç8Í ÌËô.HırRMINORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'javax.annotation.PostConstruct'.(›ÅÁ8ŞŞÑô.HşrRMINORZ
+CODE_SMELL
+§
+java:S1128"oRemove this unused import 'org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider'.(õÀ©üúÿÿÿÿ8Í ÌËô.HÿrRMINORZ
+CODE_SMELL
+k
+java:S1128"8Remove this unused import 'javax.faces.bean.ViewScoped'.(ô—É¦8õÒ£óô.H€sRMINORZ
+CODE_SMELL
+Z
+java:S1068"'Remove this unused "LOG" private field.(Ò™†Ô8ñÔ™ÿó.HsRMAJORZ
+CODE_SMELL
+˜
+java:S1128"`Remove this unused import 'org.springframework.ejb.interceptor.SpringBeanAutowiringInterceptor'.(·Ğ—Úıÿÿÿÿ8Í ÌËô.H‚sRMINORZ
+CODE_SMELL
+¢
+java:S1128"oRemove this unused import 'org.springframework.data.jpa.support.ClasspathScanningPersistenceUnitPostProcessor'.(­½…É8Í ÌËô.HƒsRMINORZ
+CODE_SMELL
+w
+java:S1128"?Remove this unused import 'npatra.testjsf.CustomerApplication'.(“Ïêíûÿÿÿÿ8Í ÌËô.H„sRMINORZ
+CODE_SMELL
+l
+java:S1128"9Remove this unused import 'javax.faces.bean.ManagedBean'.(ü·ƒ÷8ÈŒÈô.H…sRMINORZ
+CODE_SMELL

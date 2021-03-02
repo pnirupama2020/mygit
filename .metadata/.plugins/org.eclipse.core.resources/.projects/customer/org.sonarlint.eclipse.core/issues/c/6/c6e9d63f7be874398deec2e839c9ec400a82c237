@@ -1,0 +1,63 @@
+
+b
+java:S1128"/Remove this unused import 'javax.inject.Named'.(»ßáŸ8¶ï„Èô.H×tRMINORZ
+CODE_SMELL
+‚
+java:S1128 "JRemove this unused import 'org.springframework.web.context.ContextLoader'.(üšÉåÿÿÿÿÿ8¦ŠúËô.HØtRMINORZ
+CODE_SMELL
+n
+java:S1128	";Remove this unused import 'javax.faces.bean.SessionScoped'.(«á­8ñò·îô.HÙtRMINORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'javax.ejb.EJB'.(çÙ÷Êÿÿÿÿÿ8€›¿Çô.HÚtRMINORZ
+CODE_SMELL
+˜
+java:S1128""`Remove this unused import 'org.springframework.web.context.support.SpringBeanAutowiringSupport'.(Î‡™¢ÿÿÿÿÿ8şóåËô.HÛtRMINORZ
+CODE_SMELL
+d
+java:S19481")Make "service" transient or serializable.(—°›ˆşÿÿÿÿ8¡¬ÊÈô.HÜtRCRITICALZ
+CODE_SMELL
+–
+java:S1128"cRemove this unused import 'org.springframework.transaction.annotation.EnableTransactionManagement'.(‘Ó¼8÷Á¡ïô.HİtRMINORZ
+CODE_SMELL
+Š
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ğÿûÿÿÿÿ8Ñ¶åÉü.HŞtRMINORZ
+CODE_SMELL
+‰
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8š€£óô.HßtRMINORZ
+CODE_SMELL
+|
+java:S37526">Add a "method" parameter to this "@RequestMapping" annotation.(Í¹‹£øÿÿÿÿ8Ñ¶åÉü.HàtRCRITICALZVULNERABILITY
+‰
+java:S1128"VRemove this unused import 'org.springframework.web.bind.annotation.SessionAttributes'.(¾—‚ö8š€£óô.HátRMINORZ
+CODE_SMELL
+Š
+java:S1128!"RRemove this unused import 'org.springframework.web.context.WebApplicationContext'.(¦ôüøÿÿÿÿ8¦ŠúËô.HâtRMINORZ
+CODE_SMELL
+a
+java:S19484"&Make "repo" transient or serializable.(Öïó§øÿÿÿÿ8’âéîô.HãtRCRITICALZ
+CODE_SMELL
+‰
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäşÿÿÿÿ8÷Á¡ïô.HätRMINORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'javax.annotation.PostConstruct'.(›ÅÁ8®©¶Òô.HåtRMINORZ
+CODE_SMELL
+Œ
+java:S1128"YRemove this unused import 'org.springframework.boot.autoconfigure.SpringBootApplication'.(Ë”ÖÏ8ñò·îô.HætRMINORZ
+CODE_SMELL
+k
+java:S1128
+"8Remove this unused import 'javax.faces.bean.ViewScoped'.(ô—É¦8ñò·îô.HçtRMINORZ
+CODE_SMELL
+™
+java:S1128"aRemove this unused import 'org.springframework.data.jpa.repository.config.EnableJpaRepositories'.(²œ˜üÿÿÿÿ8÷Á¡ïô.HètRMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8š€£óô.HétRMINORZ
+CODE_SMELL
+~
+java:S4684T"@Replace this persistent entity with a simple POJO or DTO object.(¯å¹êùÿÿÿÿ8¢ ÜÑô.HêtRCRITICALZVULNERABILITY
+¡
+java:S1128"nRemove this unused import 'org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor'.(Ì«Òò8¦ŠúËô.HëtRMINORZ
+CODE_SMELL

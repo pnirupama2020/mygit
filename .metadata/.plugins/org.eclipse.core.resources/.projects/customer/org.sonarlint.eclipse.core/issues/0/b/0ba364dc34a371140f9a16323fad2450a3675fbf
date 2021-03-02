@@ -1,0 +1,25 @@
+
+`
+java:S1172Q"(Remove this unused method parameter "e".(…›…Şÿÿÿÿÿ8øäÈô.HrRMAJORZ
+CODE_SMELL
+k
+java:S1128"8Remove this unused import 'javax.faces.view.ViewScoped'.(çâŒ¨8¥ìÈô.HrRMINORZ
+CODE_SMELL
+„
+java:S1128"QRemove this unused import 'npatra.testjsf.beanconfig.ApplicationContextProvider'.(Á¥ë¬8§Ÿ›ô.HrRMINORZ
+CODE_SMELL
+v
+java:S1128"CRemove this unused import 'npatra.testjsf.crud.CustomerRepository'.( çÓš8§Ÿ›ô.HrRMINORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'javax.faces.bean.SessionScoped'.(«á­8ßËÄô.H‘rRMINORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'javax.inject.Named'.(»ßáŸ8¥ìÈô.H’rRMINORZ
+CODE_SMELL
+‡
+java:S1128"TRemove this unused import 'org.springframework.web.context.annotation.SessionScope'.(’ÔìÄ8ğá’Æô.H“rRMINORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'javax.faces.bean.RequestScoped'.(Œİ“•8èØ¥óô.H”rRMINORZ
+CODE_SMELL
